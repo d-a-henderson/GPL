@@ -1,5 +1,5 @@
 # GPL
-Code and data for reproducing the results in the paper "Modelling and analysis of rank ordered data with ties via a generalized Plackett-Luce model"
+Code and data for reproducing the results in the paper "<a href="https://arxiv.org/abs/2212.08543">Modelling and analysis of rank ordered data with ties via a generalized Plackett-Luce model</a>"
 
 Results can be reproduced by downloading the files and in R running
 
